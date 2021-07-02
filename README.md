@@ -2,4 +2,4 @@
 
 ## Screenshots
 
-<img src="asstes/screenshot" width=230/>
+<img src="asstes/Captura de Tela 2021-07-02 às 09.53.36.png" width=350/>
